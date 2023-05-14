@@ -5,7 +5,7 @@ pypasser
 names
 colorama
 curl_cffi
-streamlit==1.17
+streamlit==1.20
 selenium
 fake-useragent
 twocaptcha
